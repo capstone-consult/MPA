@@ -1,0 +1,11 @@
+[15-Nov-2022 06:21:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iostechh/www.medicopastoralassociation.com/career.php on line 114
+[15-Nov-2022 06:21:28 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/iostechh/www.medicopastoralassociation.com/career.php on line 115
+[15-Nov-2022 06:24:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iostechh/www.medicopastoralassociation.com/career.php on line 114
+[15-Nov-2022 06:24:52 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/iostechh/www.medicopastoralassociation.com/career.php on line 115
+[15-Nov-2022 06:24:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iostechh/www.medicopastoralassociation.com/career.php on line 114
+[15-Nov-2022 06:24:56 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/iostechh/www.medicopastoralassociation.com/career.php on line 115
+[15-Nov-2022 06:25:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/iostechh/www.medicopastoralassociation.com/career.php on line 114
+[15-Nov-2022 06:25:53 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/iostechh/www.medicopastoralassociation.com/career.php on line 115
+[15-Nov-2022 06:27:53 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/iostechh/www.medicopastoralassociation.com/sendemail.php on line 9
+[15-Nov-2022 06:33:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/iostechh/www.medicopastoralassociation.com/career.php on line 203
+[15-Nov-2022 06:34:01 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/iostechh/www.medicopastoralassociation.com/career.php on line 203
